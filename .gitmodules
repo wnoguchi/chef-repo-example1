@@ -1,0 +1,3 @@
+[submodule "chef-repo/cookbooks/chef-td-agent"]
+	path = chef-repo/cookbooks/chef-td-agent
+	url = git@github.com:wnoguchi/chef-td-agent.git
