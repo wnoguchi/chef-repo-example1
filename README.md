@@ -1,4 +1,3 @@
-chef-repo-example1
-==================
+# Chef Repository Example 1
 
 Chef repository example.
